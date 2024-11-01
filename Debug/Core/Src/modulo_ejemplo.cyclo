@@ -1,0 +1,10 @@
+../Core/Src/modulo_ejemplo.c:24:12:condicion_estado1_a_estado2	1
+../Core/Src/modulo_ejemplo.c:35:12:condicion_estado2_a_estado3	1
+../Core/Src/modulo_ejemplo.c:40:12:condicion_estado3_a_estado4	1
+../Core/Src/modulo_ejemplo.c:48:12:condicion_estado4_a_estado1	1
+../Core/Src/modulo_ejemplo.c:62:6:on_state_estado1	1
+../Core/Src/modulo_ejemplo.c:74:6:on_state_estado2	1
+../Core/Src/modulo_ejemplo.c:82:6:on_state_estado3	1
+../Core/Src/modulo_ejemplo.c:90:6:on_state_estado4	1
+../Core/Src/modulo_ejemplo.c:151:6:modulo_ejemplo_init	1
+../Core/Src/modulo_ejemplo.c:177:6:modulo_ejemplo_update	1
